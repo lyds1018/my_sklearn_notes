@@ -11,10 +11,14 @@
             "id": "0c90e381b027e9c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: community-plugins.json"
             }
           }
         ]
@@ -176,13 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6596eb5d14105a5",
+  "active": "0c90e381b027e9c4",
   "lastOpenFiles": [
     "sklearn/gradient descent/notes.md",
+    "sklearn/gradient descent/code.png",
     "math/标量函数求导.md",
     "math/向量函数求导.md",
     "sklearn/Linear Regression/notes.md",
-    "sklearn/gradient descent/code.png",
     "math/matrixcookbook.pdf",
     "math/vector_calculus_scalar.md",
     "sklearn/Linear Regression/code2.png",
