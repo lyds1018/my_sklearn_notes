@@ -63,8 +63,7 @@
               "title": "notes"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,12 +222,12 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "cfdf5c95f50c9637",
+  "active": "46b3cf9d16f8f863",
   "lastOpenFiles": [
+    "math/标量函数求导.md",
+    "math/向量函数求导.md",
     "sklearn/Linear Regression/notes.md",
     "sklearn/gradient descent/notes.md",
-    "math/向量函数求导.md",
-    "math/标量函数求导.md",
     "math/matrixcookbook.pdf",
     "math/vector_calculus_scalar.md",
     "sklearn/Linear Regression/code2.png",
