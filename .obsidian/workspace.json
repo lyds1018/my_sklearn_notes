@@ -62,8 +62,21 @@
               "icon": "lucide-file",
               "title": "notes"
             }
+          },
+          {
+            "id": "b23b034e22b92c3c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "sklearn/gradient descent/code.png"
+              },
+              "icon": "lucide-image",
+              "title": "code"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,12 +235,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "46b3cf9d16f8f863",
+  "active": "cfdf5c95f50c9637",
   "lastOpenFiles": [
-    "math/标量函数求导.md",
-    "math/向量函数求导.md",
     "sklearn/Linear Regression/notes.md",
+    "sklearn/gradient descent/code.png",
     "sklearn/gradient descent/notes.md",
+    "math/向量函数求导.md",
+    "math/标量函数求导.md",
     "math/matrixcookbook.pdf",
     "math/vector_calculus_scalar.md",
     "sklearn/Linear Regression/code2.png",
