@@ -8,7 +8,7 @@ $$
 \hat{y}_i = \boldsymbol{\theta}^\top \mathbf{x}_i = \mathbf{x}_i^\top\boldsymbol{\theta}
 $$
 - $\boldsymbol{\theta} = \begin{bmatrix} \mathbf{w} \\ b \end{bmatrix}$ , $\quad\mathbf{x}_i = \begin{bmatrix} \mathbf{x}_i \\ 1 \end{bmatrix}$ 
-### 2. 损失函数(MSE)
+### 2. 损失函数（MSE）
 $$
 \begin{align}
 J(\boldsymbol{\theta}) 
@@ -18,6 +18,8 @@ J(\boldsymbol{\theta})
 \end{align}
 $$
 - $X = \begin{bmatrix}\mathbf{x}_1^\top \\\mathbf{x}_2^\top \\\vdots \\\mathbf{x}_m^\top\end{bmatrix}$, $\mathbf{y} = \begin{bmatrix}y_1 \\y_2 \\\vdots \\y_m\end{bmatrix}$
+- 均方误差（MSE）：$\frac{1}{m} \sum_{i=1}^m \left( \hat{y}_i - y_i \right)^2$
+- 均方误差（线性回归）：$J(\boldsymbol{\theta}) = \frac{1}{2m} \sum_{i=1}^m \left( \hat{y}_i - y_i \right)^2$
 ### 3. 解析方法推导
 $$
 \nabla_{\boldsymbol{\theta}} J(\boldsymbol{\theta}) 
