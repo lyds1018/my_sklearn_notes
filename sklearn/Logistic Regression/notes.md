@@ -10,6 +10,7 @@ $$
 &= \sigma(z)\big(1-\sigma(z)\big).
 \end{aligned}
 $$
+![logistic function](img.PNG)
 ### 2. 模型预测正确率
 
 - 似然函数：

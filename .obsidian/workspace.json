@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "6b703b7362c1d6c3",
+            "id": "30ffe358427ce0fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,10 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6b703b7362c1d6c3",
+  "active": "30ffe358427ce0fe",
   "lastOpenFiles": [
     "sklearn/gradient descent/notes.md",
+    "sklearn/Logistic Regression/img.png",
     "sklearn/Logistic Regression/notes.md",
+    "sklearn/Logistic Regression/img.png.crdownload",
     "sklearn/Linear Regression/notes.md",
     "sklearn/Logistic Regression",
     "sklearn/gradient descent/code.png"
