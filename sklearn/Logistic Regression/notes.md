@@ -67,10 +67,15 @@ $$
 $$
 J(\theta) = -\ell(\theta)
 $$
+$$
+\nabla_\theta J(\theta) = - \nabla_\theta \ell(\theta)
+$$
 - 梯度下降：
 $$
 \begin{aligned}
 \theta 
+&= \theta - \alpha \, \nabla_\theta J(\theta)\\
+&= \theta + \alpha \, \nabla_\theta \ell(\theta)\\
 &= \theta + \alpha \, \sum_{i=1}^m \big(y_i - \sigma(\theta^\top x_i)\big)\, x_i\\
 &= \theta + \alpha \, X^\top \big(y - \sigma(X\theta)\big)
 \end{aligned}
