@@ -35,8 +35,7 @@
               "title": "note1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,14 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e77b31ec18ba71f",
+  "active": "033c0ae406fe8b70",
   "lastOpenFiles": [
-    "sklearn/Logistic Regression/note2.md",
     "sklearn/Logistic Regression/note1.md",
+    "sklearn/Logistic Regression/img.png",
+    "sklearn/Logistic Regression/note2.md",
     "sklearn/gradient descent/notes.md",
     "sklearn/Linear Regression/notes.md",
     "python/标准库.md",
-    "sklearn/Logistic Regression/img.png",
     "sklearn/Logistic Regression/img.png.crdownload",
     "sklearn/Logistic Regression",
     "sklearn/gradient descent/code.png"
