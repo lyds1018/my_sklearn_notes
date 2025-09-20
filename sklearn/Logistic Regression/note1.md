@@ -1,4 +1,4 @@
-# 逻辑斯蒂回归算法
+# 逻辑斯蒂二分类
 
 ## 一、数学原理
 ### 1. 逻辑斯蒂函数（logistic function）
@@ -40,7 +40,7 @@ $$
 \end{aligned}
 $$
 ### 3. 线性回归形式
-- 表达式：
+- 映射形式：
 $$
 \begin{aligned}
 f_\theta(x_i) 
@@ -68,7 +68,7 @@ $$
 J(\theta) = -\ell(\theta)
 $$
 $$
-\nabla_\theta J(\theta) = - \nabla_\theta \ell(\theta)
+\nabla_\theta J(\theta) = - \nabla_\theta \ell(\theta)\\
 $$
 - 梯度下降：
 $$
@@ -80,3 +80,18 @@ $$
 &= \theta + \alpha \, X^\top \big(y - \sigma(X\theta)\big)
 \end{aligned}
 $$
+- L2正则化约束
+$$
+J(\theta) = -\ell(\theta) + \frac{\lambda}{2} \|\theta\|_2^2\\
+$$
+$$
+\nabla_{\theta} J(\theta) = - X^\top (y - \sigma(X\theta)\big) + \lambda \theta
+$$
+$$
+\begin{aligned}
+\theta 
+&= \theta - \alpha \, \nabla_\theta J(\theta)\\
+&= (1- \lambda \alpha) \theta + \alpha X^\top (y - \sigma(X\theta)\big)
+\end{aligned}
+$$
+## 二、
