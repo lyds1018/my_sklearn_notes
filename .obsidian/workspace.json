@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sklearn/Logistic Regression/note2.md",
+                "file": "sklearn/Logistic Regression/分类问题评价指标.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note2"
+              "title": "分类问题评价指标"
             }
           },
           {
@@ -193,9 +193,10 @@
   },
   "active": "033c0ae406fe8b70",
   "lastOpenFiles": [
+    "sklearn/Logistic Regression/note2.md",
+    "sklearn/Logistic Regression/分类问题评价指标.md",
     "sklearn/Logistic Regression/note1.md",
     "sklearn/Logistic Regression/img.png",
-    "sklearn/Logistic Regression/note2.md",
     "sklearn/gradient descent/notes.md",
     "sklearn/Linear Regression/notes.md",
     "python/标准库.md",
