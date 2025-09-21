@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b6651a03f55f30be",
+        "id": "2a3b981e9e1cfefa",
         "type": "tabs",
         "children": [
           {
-            "id": "033c0ae406fe8b70",
+            "id": "81b76301b53d9b57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sklearn/Logistic Regression/分类问题评价指标.md",
+                "file": "sklearn/gradient descent/梯度下降算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分类问题评价指标"
-            }
-          },
-          {
-            "id": "9e77b31ec18ba71f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "逻辑斯蒂回归（二分类）"
-            }
-          },
-          {
-            "id": "37cf17f3bc092ba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sklearn/Logistic Regression/Softmax数学原理（多分类）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Softmax数学原理（多分类）"
+              "title": "梯度下降算法"
             }
           }
         ]
@@ -205,17 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "033c0ae406fe8b70",
+  "active": "81b76301b53d9b57",
   "lastOpenFiles": [
+    "sklearn/Linear Regression/线性回归解析算法.md",
+    "sklearn/Linear Regression/code_mine.png",
+    "sklearn/gradient descent/code_SGD.png",
+    "sklearn/gradient descent/梯度下降算法.md",
     "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
+    "sklearn/Logistic Regression/分类问题评价指标.md",
     "sklearn/Logistic Regression/Softmax数学原理（多分类）.md",
     "sklearn/Logistic Regression/logistic function.png",
-    "sklearn/Logistic Regression/分类问题评价指标.md",
-    "sklearn/gradient descent/notes.md",
-    "sklearn/Linear Regression/notes.md",
     "python/标准库.md",
     "sklearn/Logistic Regression/img.png.crdownload",
-    "sklearn/Logistic Regression",
-    "sklearn/gradient descent/code.png"
+    "sklearn/Logistic Regression"
   ]
 }
