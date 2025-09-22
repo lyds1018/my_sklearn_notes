@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
+                "file": "data_analysis/numpy/基础语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逻辑斯蒂回归（二分类）"
+              "title": "基础语法"
             }
           },
           {
@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sklearn/Linear Regression/线性回归解析算法.md",
+                "file": "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性回归解析算法"
+              "title": "逻辑斯蒂回归（二分类）"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,11 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecae123f590aabf0",
+  "active": "41a40c74cd5a7312",
   "lastOpenFiles": [
     "sklearn/Linear Regression/线性回归解析算法.md",
-    "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
+    "data_analysis/numpy/基础语法.md",
     "sklearn/Logistic Regression/分类问题评价指标.md",
+    "python/基础语法.md",
+    "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
     "data_analysis/matplotlib/图表绘制拓展.md",
     "data_analysis/matplotlib/基础图表绘制.md",
     "sklearn/Logistic Regression/logistic function.png",
