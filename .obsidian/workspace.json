@@ -48,6 +48,18 @@
               "icon": "lucide-file",
               "title": "逻辑斯蒂回归（二分类）"
             }
+          },
+          {
+            "id": "3e0ae0c5c4e4f831",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "sklearn/Logistic Regression/code_logistic.png"
+              },
+              "icon": "lucide-image",
+              "title": "code_logistic"
+            }
           }
         ],
         "currentTab": 2
@@ -208,11 +220,12 @@
   },
   "active": "41a40c74cd5a7312",
   "lastOpenFiles": [
+    "sklearn/Logistic Regression/code_logistic.png",
+    "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
     "sklearn/Linear Regression/线性回归解析算法.md",
     "data_analysis/numpy/基础语法.md",
     "sklearn/Logistic Regression/分类问题评价指标.md",
     "python/基础语法.md",
-    "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
     "data_analysis/matplotlib/图表绘制拓展.md",
     "data_analysis/matplotlib/基础图表绘制.md",
     "sklearn/Logistic Regression/logistic function.png",
