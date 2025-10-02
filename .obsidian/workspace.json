@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/向量求导基础.md",
+                "file": "math/链式法则（混合布局）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "向量求导基础"
+              "title": "链式法则（混合布局）"
             }
           }
         ]
@@ -179,8 +179,9 @@
   },
   "active": "ce8ca1197ad98280",
   "lastOpenFiles": [
-    "math/标量函数求导.md",
     "math/向量求导基础.md",
+    "math/链式法则（混合布局）.md",
+    "math/标量函数求导.md",
     "venv_manage/docker/项目镜像定制.md",
     "sklearn/Logistic Regression/分类问题评价指标.md",
     "venv_manage/docker/docker Dev配置.md",
