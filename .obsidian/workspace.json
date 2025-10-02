@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d45083d3992bd248",
+        "id": "d5c6182aedbdc6b0",
         "type": "tabs",
         "children": [
           {
-            "id": "ce8ca1197ad98280",
+            "id": "efa3a52f3ae45728",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce8ca1197ad98280",
+  "active": "efa3a52f3ae45728",
   "lastOpenFiles": [
     "math/向量求导基础.md",
     "math/链式法则（混合布局）.md",
