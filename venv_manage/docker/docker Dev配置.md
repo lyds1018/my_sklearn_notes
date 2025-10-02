@@ -43,4 +43,4 @@
 ## 使用方式
 
 1. 在项目目录（比如 `D:/tflearn`）下创建上述配置文件
-2. 打开 VS Code → `Ctrl+Shift+P` → 输入 **Dev Containers: Reopen in Container**。
+2. 打开 VS Code → `Ctrl+Shift+P` → 输入 **Dev Containers: Reopen in Container**
