@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "venv_manage/uv/初始化项目环境.md",
+                "file": "venv_manage/docker/项目镜像定制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "初始化项目环境"
+              "title": "项目镜像定制"
             }
           },
           {
@@ -193,6 +193,8 @@
   },
   "active": "efa3a52f3ae45728",
   "lastOpenFiles": [
+    "venv_manage/uv/克隆项目环境配置.md",
+    "venv_manage/uv/初始化项目环境.md",
     "data_analysis/numpy/基础语法.md",
     "math/链式法则（混合布局）.md",
     "math/向量求导基础.md",
@@ -201,8 +203,6 @@
     "sklearn/Logistic Regression/分类问题评价指标.md",
     "venv_manage/docker/docker Dev配置.md",
     "venv_manage/uv/常用指令.md",
-    "venv_manage/uv/初始化项目环境.md",
-    "venv_manage/uv/克隆项目环境配置.md",
     "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
     "math/向量函数求导.md",
     "sklearn/Linear Regression/线性回归解析算法.md",
