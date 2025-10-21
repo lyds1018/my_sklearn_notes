@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "math/对矩阵求导/矩阵求导基础(分母布局).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵求导基础(分母布局)"
+            }
+          },
+          {
+            "id": "d4f441987152334b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "math/对向量求导/向量求导常用公式.md",
                 "mode": "source",
                 "source": false
@@ -20,23 +34,8 @@
               "icon": "lucide-file",
               "title": "向量求导常用公式"
             }
-          },
-          {
-            "id": "73849b5ffa347c38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/对向量求导/向量求导基础.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "向量求导基础"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,13 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73849b5ffa347c38",
+  "active": "efa3a52f3ae45728",
   "lastOpenFiles": [
-    "math/matrixcookbook.pdf",
     "math/对向量求导/向量求导常用公式.md",
     "math/对向量求导/向量求导基础.md",
+    "math/对矩阵求导/矩阵求导基础(分母布局).md",
+    "math/对向量求导/未命名.md",
+    "math/对矩阵求导",
+    "math/对矩阵求导.md",
     "math/对向量求导/链式法则（混合布局）.md",
-    "math/未命名.md",
+    "math/matrixcookbook.pdf",
     "math/对向量求导",
     "venv_manage/uv/初始化项目环境.md",
     "venv_manage/uv/克隆项目环境配置.md",
