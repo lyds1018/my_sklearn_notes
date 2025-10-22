@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/对矩阵求导/向量化矩阵求导(分母布局).md",
+                "file": "math/对向量求导/向量求导常用公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "向量化矩阵求导(分母布局)"
+              "title": "向量求导常用公式"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sklearn/Linear Regression/线性回归解析算法.md",
+                "file": "math/对矩阵求导/矩阵求导常用公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性回归解析算法"
+              "title": "矩阵求导常用公式"
+            }
+          },
+          {
+            "id": "3870eda1072f1621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "逻辑斯蒂回归（二分类）"
             }
           }
         ]
@@ -193,12 +207,12 @@
   },
   "active": "efa3a52f3ae45728",
   "lastOpenFiles": [
-    "sklearn/Linear Regression/线性回归解析算法.md",
-    "math/对矩阵求导/向量化矩阵求导(分母布局).md",
-    "math/对向量求导/向量求导基础.md",
-    "math/对向量求导/向量求导常用公式.md",
-    "math/对矩阵求导/矩阵求导常用公式.md",
     "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
+    "math/对矩阵求导/矩阵求导常用公式.md",
+    "math/对向量求导/向量求导常用公式.md",
+    "math/对矩阵求导/向量化矩阵求导(分母布局).md",
+    "sklearn/Linear Regression/线性回归解析算法.md",
+    "math/对向量求导/向量求导基础.md",
     "math/对向量求导/未命名.md",
     "math/对矩阵求导",
     "math/对矩阵求导.md",
