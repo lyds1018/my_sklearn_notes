@@ -42,7 +42,7 @@
 | $\pi$                   |          `\pi`          | $\Pi$     |   `\Pi`   |
 | $\sigma$                |        `\sigma`         | $\Sigma$  | `\Sigma`  |
 | $\phi$                  |         `\phi`          | $\Phi$    |  `\Phi`   |
-| $\psi$                  |         `\psi`          | $\Psi`    |  `\Psi`   |
+| $\psi$                  |         `\psi`          | $\Psi$    |  `\Psi`   |
 | $\omega$                |        `\omega`         | $\Omega$  | `\Omega`  |
 
 ---
