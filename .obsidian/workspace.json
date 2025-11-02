@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/LaTeX 常用数学公式与符号未命名.md",
+                "file": "venv_manage/uv/常用指令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LaTeX 常用数学公式与符号未命名"
+              "title": "常用指令"
             }
           },
           {
@@ -207,8 +207,10 @@
   },
   "active": "efa3a52f3ae45728",
   "lastOpenFiles": [
+    "venv_manage/uv/初始化项目环境.md",
+    "venv_manage/uv/常用指令.md",
+    "math/LaTeX 常用数学公式与符号.md",
     "math/对矩阵求导/向量化矩阵求导(分母布局).md",
-    "math/LaTeX 常用数学公式与符号未命名.md",
     "math/对向量求导/向量求导常用公式.md",
     "sklearn/Logistic Regression/逻辑斯蒂回归（二分类）.md",
     "math/对矩阵求导/矩阵求导常用公式.md",
@@ -220,7 +222,6 @@
     "math/对向量求导/链式法则（混合布局）.md",
     "math/matrixcookbook.pdf",
     "math/对向量求导",
-    "venv_manage/uv/初始化项目环境.md",
     "venv_manage/uv/克隆项目环境配置.md",
     "未命名.md",
     "venv_manage/docker/深度学习镜像定制流程.md",
@@ -228,7 +229,6 @@
     "math/标量函数求导.md",
     "sklearn/Logistic Regression/分类问题评价指标.md",
     "venv_manage/docker/docker Dev配置.md",
-    "venv_manage/uv/常用指令.md",
     "math/向量函数求导.md",
     "sklearn/gradient descent/梯度下降算法.md",
     "sklearn/Logistic Regression/logistic function.png",
